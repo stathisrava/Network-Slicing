@@ -6,8 +6,8 @@ A. Thantharate, R. Paropkari, V. Walunj and C. Beard, "DeepSlice: A Deep Learnin
 
 A. Thantharate, R. Paropkari, V. Walunj, C. Beard and P. Kankariya, "Secure5G: A Deep Learning Framework Towards a Secure Network Slicing in 5G and Beyond," 2020 10th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2020, pp. 0852-0857, doi: 10.1109/CCWC47524.2020.9031158.
 
-#
-This repository contains the code and datasets used for the implementation and evaluation of Neural Network models for 5G Network Slice Type classification.
+
+This repository contains the code and dataset used for the implementation and evaluation of Neural Network models for 5G Network Slice Type classification.
 The project focuses on classifying network traffic into the following 5G slice types:
 
 * **eMBB** – enhanced Mobile Broadband
@@ -17,18 +17,6 @@ The project focuses on classifying network traffic into the following 5G slice t
 Two Neural Network architectures (**NN1** and **NN2**) are implemented and evaluated using metrics such as accuracy, loss, confusion matrix, classification report, and ROC-AUC.
 
 The repository also includes the preprocessing and feature analysis performed on the dataset, including correlation analysis and Mutual Information.
-
-
-## Repository Contents
-
-* Neural Network implementation and training
-* Dataset preprocessing
-* NN1 and NN2 model comparison
-* Performance evaluation and visualization
-* Feature distribution analysis
-* Correlation analysis
-* Mutual Information analysis
-
 
 
 ## Note
